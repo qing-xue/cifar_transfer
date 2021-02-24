@@ -1,0 +1,20 @@
+2021-02-24 21:57:06.405725: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+Found 6303 images belonging to 10 classes.
+99/99 [==============================] - 33s 333ms/step
+> 41.742
+
+2021-02-24 20:24:03.517533: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+10000/10000 [==============================] - 30s 3ms/step
+> 64.430
+
+Epoch 1/5
+2021-02-24 19:44:29.601017: I tensorflow/core/platform/cpu_feature_guard.cc:141] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
+50000/50000 [==============================] - 533s 11ms/step - loss: 1.7321 - acc: 0.3730
+Epoch 2/5
+50000/50000 [==============================] - 463s 9ms/step - loss: 1.3699 - acc: 0.5105
+Epoch 3/5
+50000/50000 [==============================] - 429s 9ms/step - loss: 1.2015 - acc: 0.5743
+Epoch 4/5
+50000/50000 [==============================] - 388s 8ms/step - loss: 1.0792 - acc: 0.6206
+Epoch 5/5
+50000/50000 [==============================] - 403s 8ms/step - loss: 0.9770 - acc: 0.6580

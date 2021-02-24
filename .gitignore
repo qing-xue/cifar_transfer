@@ -1,3 +1,6 @@
+final_model.h5
+dataset_dogs_vs_cats/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
